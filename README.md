@@ -65,7 +65,6 @@
 
 `http://localhost:8080/swagger-ui/`
 
-## API Module Endpoints
 
 
 
