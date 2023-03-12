@@ -67,25 +67,7 @@
 
 ## API Module Endpoints
 
-### Login Module
 
-- `POST //api/adminlogin` : Admin can login with mobile number and password provided at the time of registation
-<!--
-
-### User Module
-
-- `POST /customer/login` : Logging in customer with valid mobile number & password
-- `GET /customer/availablecabs` : Getting the list of all the available cabs
-- `GET /customers/cabs` : Getting All the cabs
-- `GET /customers/checkhistory` : Getting the history of completed tr
-- `PUT /customer/update/{mobile}` : Updates customer details based on mobile number
-- `PATCH /customer/updatepassword/{mobile}` : Updates customer's password based on the given mobile number
-- `POST /customer/booktrip` : Customer can book a cab
-- `POST /customer/updatetrip` : Customer can modify or update the trip
-- `POST /customer/logout` : Logging out customer based on session token
-- `DELETE /customer/delete` : Deletes logged in user
-- `DELETE /customer/complete/{tripid}` : Completed the trip with the given tripid
-- `DELETE /customer/canceltrip` : Cancel the trip with the given tripid
 
 
 
