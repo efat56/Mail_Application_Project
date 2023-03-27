@@ -1,6 +1,6 @@
 # REST API for a Mail_Application_Project
 
-- We have developed this REST API for Sending Mail. This API performs all the fundamental CRUD operations of any  Trip Management Application platform with user validation at every step.
+- We have developed this REST API for Sending Mail. This API performs all the fundamental CRUD operations of Mail Application. 
 - This project is developed by team of 5 Back-End Developers during project week in Masai School.
 
 
