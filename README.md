@@ -21,11 +21,7 @@
 - Login, Logout Module
 - User Module
 - Admin Module
-- Booking Management Module
-- Feedback Module
-- Report Module
-- Trip Package Management Module
-- Route Mangement Module
+
 
 ## Features
 
